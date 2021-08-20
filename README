@@ -1,5 +1,5 @@
-A program that uses recursion to find all solutions to the n-Queens
-problem, for 1 ≤ 𝑛 ≤ 15
+A program that uses recursion to print out all k-element subsets of the n-
+element set {1, 2, 3, … , n}, where both n and k are given on the command line.
 
 Files:
 1)README
