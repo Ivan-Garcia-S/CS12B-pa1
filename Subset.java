@@ -1,8 +1,3 @@
-/*
-A program that uses recursion to print out all k-element subsets of the n-
-element set {1, 2, 3 ... n}, where bothn and k are given on the command line.
-*/
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
